@@ -36,8 +36,8 @@ using java
 
 <table>
 <tr>
-<td>Problem</td>
-<td>Solution</td>
+    <td  align="center">Problem</td>
+    <td  align="center">Solution</td>
 </tr>
   <tr>
      <td align="center"><a target="_blank" href="https://github.com/EslamAsHhraf/Advanced-programming-techniques/blob/main/Multithread/Multithread.pdf"><img src="https://gostudyinturkey.com/wp-content/uploads/2018/07/Most-Popular-Questions-to-Study-in-Turkey-1.jpg" width="250px;" alt=""/><br /><sub><b>Matrix Lab</b></sub></a><br /></td>
