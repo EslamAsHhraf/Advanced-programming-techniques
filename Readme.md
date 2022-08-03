@@ -15,6 +15,7 @@
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#problems"> 💻 Problems && Solution</a>
 - <a href ="#Contributors"> ✨ Contributors</a>
+- <a href ="#License"> 🔒 License</a>
 <br>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
@@ -61,3 +62,11 @@ using java
      <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
   </tr>
 </table>
+
+<hr style="background-color: #4b4c60"></hr>
+
+<a id ="License"></a>
+
+## 🔒 License
+
+> **Note:** This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/Captain-Hook/blob/main/LICENSE) for more information ©EslamAsHhraf.
