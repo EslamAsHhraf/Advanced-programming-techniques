@@ -23,13 +23,10 @@
 My Solution of problems in cousre Advanced Programming Techniques
 using java
 </div>
-<br>
 <hr style="background-color: #4b4c60"></hr>
  <a id ="problems"></a>
 
 ## <img  align="center" width= 70px height =70px src="https://media4.giphy.com/media/KSqhV4hZgGYfA5nA2N/giphy.gif?cid=790b7611127431182d53e6b7cda389f73e6bb53224059bb4&rid=giphy.gif&ct=s"> Problems && Solutions
-
-<br>
 
 <table>
 <tr>
