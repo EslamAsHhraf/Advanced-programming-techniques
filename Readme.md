@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width=400px src="https://media3.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif?cid=790b761112e1dc979a430b75afad4c13c1d1a6e9625f719a&rid=giphy.gif&ct=g">
+<img  src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif">
   
 </div>
 
