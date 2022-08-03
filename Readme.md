@@ -1,8 +1,8 @@
-# Advanced Programming Techniques
+# <img  align="center" width= 70px height =70px src="https://media0.giphy.com/media/5qDI4MXF3gOmGuFUCP/giphy.gif?cid=ecf05e47ex5yljegt3p7qihycvn4clm42ac405xblnpiomeb&rid=giphy.gif&ct=s"> Advanced Programming Techniques
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/71986226/154510384-f02decea-a93b-4cb4-9633-a6aa5c87d198.gif">
+<img width=400px src="https://media3.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif?cid=790b761112e1dc979a430b75afad4c13c1d1a6e9625f719a&rid=giphy.gif&ct=g">
   
 </div>
 
@@ -59,11 +59,12 @@ using java
 <hr style="background-color: #4b4c60"></hr>
 <a id ="Contributors"></a>
 
-## <img  align="center" width= 60px height =80px src="https://media0.giphy.com/media/CVEdUPIx1S1B8W6ECq/giphy.gif?cid=ecf05e4765gix5pzgtnntu6v6070dr0mcyyiyo6x3ps79ep9&rid=giphy.gif&ct=s"> Contributors
+## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Contributors
 
+<br>
 <table >
   <tr>
-     <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
   </tr>
 </table>
 
