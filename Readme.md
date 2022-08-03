@@ -1,4 +1,4 @@
-# <img  align="center" width= 70px height =70px src="https://media0.giphy.com/media/5qDI4MXF3gOmGuFUCP/giphy.gif?cid=ecf05e47ex5yljegt3p7qihycvn4clm42ac405xblnpiomeb&rid=giphy.gif&ct=s"> Advanced Programming Techniques
+# <img  align="center" width= 70px height =70px src="https://media3.giphy.com/media/iGdj7WVJsijGCxjX0C/giphy.gif?cid=ecf05e4758u80mbdft2paa9fv7xyxayse2n4koc2adt7r7jn&rid=giphy.gif&ct=s"> Advanced Programming Techniques
 
 <div align="center">
 
