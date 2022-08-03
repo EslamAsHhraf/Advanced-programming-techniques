@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img  src="https://i0.wp.com/www.sithcomputers.com/wp-content/uploads/2021/02/C-1.gif?w=640&ssl=1">
+<img width=450px src="https://i0.wp.com/www.sithcomputers.com/wp-content/uploads/2021/02/C-1.gif?w=640&ssl=1">
   
 </div>
 
