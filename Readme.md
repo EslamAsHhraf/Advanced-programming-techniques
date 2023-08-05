@@ -12,8 +12,8 @@
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#problems"> 💻 Problems && Solution</a>
-- <a href ="#Contributors"> ✨ Contributors</a>
-- <a href ="#License"> 🔒 License</a>
+- <a href ="#contributors"> ✨ Contributors</a>
+- <a href ="#license"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
